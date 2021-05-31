@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+### Welcome to Yixuan Wang's Homepage
 
-You can use the [editor on GitHub](https://github.com/YixuanWang1120/YixuanWang1120.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! Welcome to my homepage. I’m Yixuan Wang (王以瑄).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - Ph.D. student
+ - Supervisor: [Prof. Jiayin Wang](http://gr.xjtu.edu.cn/web/jiayin/home/)
+ - School of Computer Science and Technology
+ - Xi’an Jiaotong University
+ - 7180 No.4 Building, Xi’an Jiaotong University
+ - Xi’an, China, 710049
+ - Email: wangyixuan@stu.xjtu.edu.cn
 
-### Markdown
+### Education
+ - Sep.2017 - now, Xi’an Jiaotong University, Computer Science, PhD student 
+ - Sep.2013 - June.2017, Soochow University, Mathematics and Applied Mathematics, Bachelor of Science
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publication
+1. CMSI: A Bayesian model for estimating clonal micro-satellites instability from NGS data
+    
+    **Yixuan Wang**, XP Zhang, Y Huang, T Liu, X Xiao, and JY Wang
+    
+    Annual Meeting of the American-Association-for-Cancer-Research (AACR), 2019.
+    
+    _A variational Bayesian mixture model to identify the clonal MSI events._
 
-```markdown
-Syntax highlighted code block
+2. Accurately estimating the length distributions of genomic micro-satellites by tumor purity deconvolution
+    
+    **Yixuan Wang**, XP Zhang, X Xiao, FR Zhang, XX Yan, X Feng, ZM Zhao, YF Guan, JY Wang
+    
+    BMC Bioinformatics, 2020.
+    
+    _A statistical model incorporating several steps to accomplish algorithmic improvements, inferring  micro-satellites with wide-range length from the heterogeneous sample._ [github](https://github.com/YixuanWang1120/ELMSI)
 
-# Header 1
-## Header 2
-### Header 3
+3. A graph-based algorithm for estimating clonal haplotypes of tumor sample from sequencing data
+    
+    **Yixuan Wang**, XP Zhang, S Ding, Y Geng, JY Liu, ZM Zhao, R Zhang, X Xiao, JY Wang
+    
+    BMC Med. Genomics, 2019.
+    
+    _A graph-based computational pipeline, adopting three bounding strategies to limit the solution space and filter out false positive candidates._ [github](https://github.com/YixuanWang1120/MixSubHap)
 
-- Bulleted
-- List
+### Academic Services & Honors
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YixuanWang1120/YixuanWang1120.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ - Reviewer: a manuscript for PLOS ONE
+ - Presentation in International Conference on Intelligent Biology and Medicine ([ICIBM 2018](https://icibm2018.iaibm.org/)) , June 10-12, 2018, Los Angeles, CA, USA
+ - Patent for invention: Accurately estimating the distributions of genomic micro-satellites with wide-range length considering the tumor purity. (reviewing)
+ - Excellent Postgraduate of Xi’an Jiaotong University during the academic year of 2019-2020.
