@@ -1,6 +1,6 @@
 ### Welcome to Yixuan Wang's Homepage
 
-Hi! Welcome to my homepage. I’m Yixuan Wang (王以瑄).
+Hi! Welcome to my homepage. I’m Yixuan Wang (王以瑄).hi
 ![image1](https://github.com/YixuanWang1120/YixuanWang1120.github.io/blob/main/image1.JPG)
 
  - Ph.D. student
