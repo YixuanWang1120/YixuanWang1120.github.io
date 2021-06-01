@@ -1,9 +1,6 @@
 ### Welcome to Yixuan Wang's Homepage
 
-Hi! Welcome to my homepage. I’m Yixuan Wang (王以瑄).
-
-![image](https://raw.githubusercontent.com/YixuanWang1120/YixuanWang1120.github.io/main/image1.JPG)
- 
+Hi! Welcome to my homepage. I’m Yixuan Wang (王以瑄). 
  - Ph.D. student
  - Supervisor: [Prof. Jiayin Wang](http://gr.xjtu.edu.cn/web/jiayin/home/)
  - School of Computer Science and Technology
