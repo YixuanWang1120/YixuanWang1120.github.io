@@ -2,7 +2,7 @@
 
 Hi! Welcome to my homepage. I’m Yixuan Wang (王以瑄).
 
-![image](https://github.com/YixuanWang1120/YixuanWang1120.github.io/blob/main/image1.JPG)
+![image](https://raw.githubusercontent.com/YixuanWang1120/YixuanWang1120.github.io/main/image1.JPG)
  
  - Ph.D. student
  - Supervisor: [Prof. Jiayin Wang](http://gr.xjtu.edu.cn/web/jiayin/home/)
