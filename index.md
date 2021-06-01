@@ -6,12 +6,10 @@ Hi! Welcome to my homepage. I’m Yixuan Wang (王以瑄).
  - Supervisor: [Prof. Jiayin Wang](http://gr.xjtu.edu.cn/web/jiayin/home/)
  - School of Computer Science and Technology
  - Xi’an Jiaotong University
- - 7180 No.4 Building, Xi’an Jiaotong University
- - Xi’an, China, 710049
  - Email: wangyixuan@stu.xjtu.edu.cn
 
 ### Education
- - Sep.2017 - now, Xi’an Jiaotong University, Computer Science, PhD student 
+ - Sep.2017 - now, Xi’an Jiaotong University, Computer Science, Ph.D. student 
  - Sep.2013 - June.2017, Soochow University, Mathematics and Applied Mathematics, Bachelor of Science
 
 ### Publication
@@ -42,6 +40,9 @@ Hi! Welcome to my homepage. I’m Yixuan Wang (王以瑄).
 ### Academic Services & Honors
 
  - Reviewer: a manuscript for PLOS ONE
+ 
  - Presentation in International Conference on Intelligent Biology and Medicine ([ICIBM 2018](https://icibm2018.iaibm.org/)) , June 10-12, 2018, Los Angeles, CA, USA
+ 
  - Patent for invention: Accurately estimating the distributions of genomic micro-satellites with wide-range length considering the tumor purity. (reviewing)
+ 
  - Excellent Postgraduate of Xi’an Jiaotong University during the academic year of 2019-2020.
